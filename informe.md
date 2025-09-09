@@ -16,10 +16,11 @@ Año: 2025
 1. Inicio
 2. Cuerpo
 3. Final
+---
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
 1. Inicio
 Este es la parte inicial del informe donde va una primera parte de resumen de lo que va a tratar el informe. Despues de esta parte viene el cuerpo del informe.
